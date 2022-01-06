@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<a href="https://velog.io/@jerrylee1455" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 <!--
 **JerryJaehee/JerryJaehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
